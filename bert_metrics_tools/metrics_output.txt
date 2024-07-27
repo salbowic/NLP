@@ -1,0 +1,43 @@
+\begin{tabular}{c|c|ccccc}
+Dataset & Metric & Epoch 1 & Epoch 2 & Epoch 3 & Epoch 4 & Epoch 5 \\ \hline
+\multicolumn{7}{c}{Batch Size = 4} \\ \hline
+\multirow{3}{*}{Train} & Accuracy & ${\num{0.9301}}$ & ${\num{0.9640}}$ & ${\num{0.9792}}$ & ${\num{0.9847}}$ & ${\num{0.9865}}$ \\
+& F1 Score & ${\num{0.9379}}$ & ${\num{0.9680}}$ & ${\num{0.9815}}$ & ${\num{0.9864}}$ & ${\num{0.9880}}$ \\
+& Time & ${\num{351}}$ & ${\num{362}}$ & ${\num{391}}$ & ${\num{373}}$ & ${\num{376}}$ \\
+\hline
+\multirow{2}{*}{Test} & Accuracy & ${\num{0.9501}}$ & ${\num{0.9505}}$ & ${\num{0.9522}}$ & ${\num{0.9526}}$ & ${\num{0.9454}}$ \\
+& F1 Score & ${\num{0.9554}}$ & ${\num{0.9564}}$ & ${\num{0.9580}}$ & ${\num{0.9578}}$ & ${\num{0.9518}}$ \\
+\hline
+\multicolumn{7}{c}{Batch Size = 8} \\ \hline
+\multirow{3}{*}{Train} & Accuracy & ${\num{0.9313}}$ & ${\num{0.9652}}$ & ${\num{0.9805}}$ & ${\num{0.9869}}$ & ${\num{0.9900}}$ \\
+& F1 Score & ${\num{0.9387}}$ & ${\num{0.9691}}$ & ${\num{0.9827}}$ & ${\num{0.9883}}$ & ${\num{0.9911}}$ \\
+& Time & ${\num{256}}$ & ${\num{257}}$ & ${\num{257}}$ & ${\num{257}}$ & ${\num{257}}$ \\
+\hline
+\multirow{2}{*}{Test} & Accuracy & ${\num{0.9423}}$ & ${\num{0.9489}}$ & ${\num{0.9475}}$ & ${\num{0.9458}}$ & ${\num{0.9473}}$ \\
+& F1 Score & ${\num{0.9477}}$ & ${\num{0.9541}}$ & ${\num{0.9531}}$ & ${\num{0.9525}}$ & ${\num{0.9531}}$ \\
+\hline
+\multicolumn{7}{c}{Batch Size = 16} \\ \hline
+\multirow{3}{*}{Train} & Accuracy & ${\num{0.9302}}$ & ${\num{0.9650}}$ & ${\num{0.9810}}$ & ${\num{0.9868}}$ & ${\num{0.9883}}$ \\
+& F1 Score & ${\num{0.9380}}$ & ${\num{0.9689}}$ & ${\num{0.9831}}$ & ${\num{0.9883}}$ & ${\num{0.9896}}$ \\
+& Time & ${\num{221}}$ & ${\num{222}}$ & ${\num{224}}$ & ${\num{224}}$ & ${\num{224}}$ \\
+\hline
+\multirow{2}{*}{Test} & Accuracy & ${\num{0.9505}}$ & ${\num{0.9505}}$ & ${\num{0.9542}}$ & ${\num{0.9512}}$ & ${\num{0.9486}}$ \\
+& F1 Score & ${\num{0.9566}}$ & ${\num{0.9559}}$ & ${\num{0.9593}}$ & ${\num{0.9565}}$ & ${\num{0.9538}}$ \\
+\hline
+\multicolumn{7}{c}{Batch Size = 32} \\ \hline
+\multirow{3}{*}{Train} & Accuracy & ${\num{0.9254}}$ & ${\num{0.9642}}$ & ${\num{0.9798}}$ & ${\num{0.9863}}$ & ${\num{0.9885}}$ \\
+& F1 Score & ${\num{0.9336}}$ & ${\num{0.9682}}$ & ${\num{0.9820}}$ & ${\num{0.9878}}$ & ${\num{0.9897}}$ \\
+& Time & ${\num{190}}$ & ${\num{190}}$ & ${\num{190}}$ & ${\num{190}}$ & ${\num{190}}$ \\
+\hline
+\multirow{2}{*}{Test} & Accuracy & ${\num{0.9477}}$ & ${\num{0.9543}}$ & ${\num{0.9496}}$ & ${\num{0.9514}}$ & ${\num{0.9528}}$ \\
+& F1 Score & ${\num{0.9531}}$ & ${\num{0.9595}}$ & ${\num{0.9548}}$ & ${\num{0.9568}}$ & ${\num{0.9577}}$ \\
+\hline
+\multicolumn{7}{c}{Batch Size = 64} \\ \hline
+\multirow{3}{*}{Train} & Accuracy & ${\num{0.9189}}$ & ${\num{0.9601}}$ & ${\num{0.9764}}$ & ${\num{0.9864}}$ & ${\num{0.9883}}$ \\
+& F1 Score & ${\num{0.9283}}$ & ${\num{0.9645}}$ & ${\num{0.9790}}$ & ${\num{0.9879}}$ & ${\num{0.9896}}$ \\
+& Time & ${\num{261}}$ & ${\num{265}}$ & ${\num{265}}$ & ${\num{273}}$ & ${\num{265}}$ \\
+\hline
+\multirow{2}{*}{Test} & Accuracy & ${\num{0.9484}}$ & ${\num{0.9524}}$ & ${\num{0.9510}}$ & ${\num{0.9519}}$ & ${\num{0.9514}}$ \\
+& F1 Score & ${\num{0.9540}}$ & ${\num{0.9579}}$ & ${\num{0.9563}}$ & ${\num{0.9573}}$ & ${\num{0.9563}}$ \\
+\hline
+\end{tabular}
