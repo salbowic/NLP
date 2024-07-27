@@ -1,6 +1,11 @@
 # NLP
 Comparison of NLP classifiers on opinion sentiments.
 
+Classifiers:
+- RNN
+- BERT
+- SVM
+
 Datasets:
 - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 - https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
