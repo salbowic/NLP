@@ -1,0 +1,24 @@
+dataset_name=mcdonald, kernel=linear, C=0.1
+dataset_name=mcdonald, kernel=linear, C=0.5
+dataset_name=mcdonald, kernel=linear, C=1.0
+dataset_name=mcdonald, kernel=linear, C=5.0
+dataset_name=mcdonald, kernel=linear, C=10.0
+dataset_name=mcdonald, kernel=linear, C=50.0
+dataset_name=mcdonald, kernel=linear, C=100.0
+
+dataset_name=imdb, kernel=linear, C=0.1
+dataset_name=imdb, kernel=linear, C=0.5
+dataset_name=imdb, kernel=linear, C=1.0
+dataset_name=imdb, kernel=linear, C=5.0
+dataset_name=imdb, kernel=linear, C=10.0
+dataset_name=imdb, kernel=linear, C=50.0
+dataset_name=imdb, kernel=linear, C=100.0
+
+dataset_name=twitter, kernel=linear, C=0.1
+dataset_name=twitter, kernel=linear, C=0.5
+dataset_name=twitter, kernel=linear, C=1.0
+dataset_name=twitter, kernel=linear, C=5.0
+dataset_name=twitter, kernel=linear, C=10.0
+dataset_name=twitter, kernel=linear, C=50.0
+dataset_name=twitter, kernel=linear, C=100.0
+

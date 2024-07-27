@@ -1,0 +1,8 @@
+# dataset_name: The name of the dataset to use (e.g., 'imdb', 'mcdonald', 'twitter')
+dataset_name=imdb
+
+# kernel: The kernel type to be used in the algorithm (e.g., 'linear', 'poly', 'rbf', 'sigmoid')
+kernel=linear
+
+# C: Regularization parameter (e.g., 0.1, 1, 10)
+C=0.1

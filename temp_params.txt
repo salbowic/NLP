@@ -1,0 +1,3 @@
+dataset_name=imdb
+kernel=linear
+C=1.0
